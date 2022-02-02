@@ -1,5 +1,5 @@
 # Seoul-Bike_Linear-Regression
-Seoul Bike Dataset
+Seoul Bike Dataset  
 project summary,
 Trip duration, predicting the trip-time precisely for the advancement of
 Intelligent Trnasport systems(ITS)
